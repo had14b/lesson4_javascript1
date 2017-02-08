@@ -10,13 +10,12 @@ February 8, 2017
 Homer Davis
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+This is the first project dealing with Javascript. It calculates monthly expenses.
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+https://had14b.github.io/lesson4_javascript1/
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. A scripting language is a simple, interpreted programming language.
+2. Javascript allows for interactivity and webpage manipulation.
+3. Loosely typed programming languages do not require declaration of the data types of variables.
